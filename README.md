@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nyargwanda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front end developer
+- 🌱 I’m currently learning Javascript, html, css
+- 💞️ I’m looking to collaborate on Javascript
+- 📫 How to reach me email
 
 <!---
 Nyargwanda/Nyargwanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
